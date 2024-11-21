@@ -2,12 +2,6 @@
 This repository contains the program charter and strategic project design documentation for the iPhone 18 Transformation Program. This project outlines a two-year strategic initiative to transform the iPhone 16 into the next-generation iPhone 18. With a focus on superior performance, enhanced customer experience, and cutting-edge technology.
 
 
-## Configuration
-
-**Update the Email Credentials**
-
-1. **Edit the script to include your email credentials in the send_email function:**
-
 ## Contents
 Background
 Program Objectives
